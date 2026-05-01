@@ -208,7 +208,7 @@ docker compose up -d
 ## 📚 Learn More
 
 - [System Design PPT](./presentation/scalable-notification-system-presentation.pptx)
-- [Architecture Video](https://www.youtube.com/watch?v=ec-NCUGOI58&t=93s)
+- [Architecture Video](https://www.youtube.com/watch?v=ec-NCUGOI58&t)
 - [Demo Video](https://www.youtube.com/watch?v=2gOpx4rR5gw)
 
 ## 🤝 Contributing
