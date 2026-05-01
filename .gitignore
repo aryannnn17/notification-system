@@ -1,0 +1,28 @@
+# Documentation files to exclude from submission
+docs/demo_guide.md
+docs/presentation_speech.md
+
+# Video files (too large for GitHub)
+video/
+
+# Build artifacts
+target/
+*.jar
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
